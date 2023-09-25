@@ -2,3 +2,5 @@ RESOLUSI
 - Konsisten
 - Membuat a
 - Membuat b
+- Membuat c
+- Kolaborasi
